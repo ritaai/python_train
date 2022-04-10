@@ -24,14 +24,19 @@ class Car:
         """打印一条指出汽车里程的消息"""
         print(f"This car has {self.odometer_reading} mile in it")
 
-    def update_odometer(self,mileage):
+    def update_odometer(self, mileage):
         """将里程表读数设置为指定的值"""
         if mileage >= self.odometer_reading:
             self.odometer_reading = mileage
         else:
             print("You can't roll back an odometer!")
+    def increment_odometer(self,miles):
+        """将里程表读数增加到指定的量"""
+        self.odometer_reading += miles
 my_new_car = Car('audi', 'a4', 2019)
 my_new_car.update_odometer(23)
 # my_new_car.odometer_reading = 23
 print(my_new_car.get_descriptive_name())
+my_new_car.read_doometer()
+my_new_car.increment_odometer(100)
 my_new_car.read_doometer()

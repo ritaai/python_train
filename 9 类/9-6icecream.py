@@ -1,7 +1,7 @@
 # -*- coding : utf-8 -*-
 """
 作者： admin
-日期：2022年03月19日
+日期：2022年04月08日
 """
 
 
@@ -19,12 +19,16 @@ class Resturant:
         print(f"{self.restaurant_name} is open.")
 
 
-restaurant = Resturant('wanjiahe', 'zhongcan')
-# restaurant2 = Resturant('basihixing', 'xican')
-# restaurant3 = Resturant('weiterui', 'facan')
-restaurant.describe_restaurant()
-restaurant.open_restaurant()
-# restaurant2.describe_restaurant()
-# restaurant2.open_restaurant()
-# restaurant3.describe_restaurant()
-# restaurant3.open_restaurant()
+class IceCreamStand(Resturant):
+    def __init__(self, restaurant_name, cuisine_type):
+        super().__init__(restaurant_name, cuisine_type)
+        self.flavors = ['apple', 'bnana', 'origin']
+
+    def read_flavors(self):
+        for i in self.flavors:
+            print(i)
+
+
+my_ice = IceCreamStand('i ice you', 'ice cream')
+my_ice.describe_restaurant()
+my_ice.read_flavors()

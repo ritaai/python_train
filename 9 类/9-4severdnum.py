@@ -1,10 +1,8 @@
 # -*- coding : utf-8 -*-
 """
 作者： admin
-日期：2022年03月19日
+日期：2022年04月08日
 """
-
-
 class Resturant:
 
     def __init__(self, restaurant_name, cuisine_type):
@@ -17,14 +15,17 @@ class Resturant:
 
     def open_restaurant(self):
         print(f"{self.restaurant_name} is open.")
-
+    def restanrant(self):
+        print(f"Had {self.number_severd} come here for food.")
+    def set_number_severd(self,num):
+        self.number_severd = num
+    def increment_number_severd(self, n):
+        self.number_severd += n
 
 restaurant = Resturant('wanjiahe', 'zhongcan')
-# restaurant2 = Resturant('basihixing', 'xican')
-# restaurant3 = Resturant('weiterui', 'facan')
 restaurant.describe_restaurant()
 restaurant.open_restaurant()
-# restaurant2.describe_restaurant()
-# restaurant2.open_restaurant()
-# restaurant3.describe_restaurant()
-# restaurant3.open_restaurant()
+restaurant.set_number_severd(30)
+restaurant.restanrant()
+restaurant.increment_number_severd(12)
+restaurant.restanrant()
