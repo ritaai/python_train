@@ -2,22 +2,40 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="53f768f9-64e7-4ebc-8ddf-f4fc8895e5dc" name="Changes" comment="puthon_tarin">
-      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.1/file_reader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.1/learning_python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.1/learning_python.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.1/pi_digits.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.1/pi_string.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.4/9-11show_admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.4/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.4/car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.4/electric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.4/my_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.4/my_electric_car.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.4/my_res.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.4/restaurant.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.5python标准库/die.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9 类/9.5python标准库/ticket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.2/guest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.2/write_message.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.3/alice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.3/animals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.3/cats.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.3/division_calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.3/dogs.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.3/sum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.3/word_count.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.4/greet_user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.4/love_number.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.4/number_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.4/number_writer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.4/read_lovenum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.4/remeber_me.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_fileandcatch/10.4/remember_me.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.1/city_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.1/name_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.1/names.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.1/test_cities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.1/test_name_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.2/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.2/language_survey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.2/survey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.2/test_employee_function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11 test/11.2/test_survey.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/4repeat_num.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/reverse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/reverseString.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python_train.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python_train.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/7 while/visit.py" beforeDir="false" afterPath="$PROJECT_DIR$/7 while/visit.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,16 +71,16 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../data/shiyian" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\qzl\python_train\9 类\9.4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.learning_python">
-    <configuration name="die" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.reverse">
+    <configuration name="4repeat_num" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_train" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,11 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9 类/9.5python标准库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9 类/9.5python标准库/die.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/4repeat_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +101,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="file_reader" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverse" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_train" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,11 +109,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_fileandcatch/10.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_fileandcatch/10.1/file_reader.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/reverse.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="learning_python" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="reverseString" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python_train" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,11 +130,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_fileandcatch/10.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/leetcode" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_fileandcatch/10.1/learning_python.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/leetcode/reverseString.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,55 +143,41 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pi_string" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for test_employee_function.EmplyeeTestCase.test_give_custom_raise" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="python_train" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_fileandcatch/10.1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 test/11.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_fileandcatch/10.1/pi_string.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_employee_function.EmplyeeTestCase.test_give_custom_raise&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="ticket" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in test_employee_function.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="python_train" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/9 类/9.5python标准库" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/11 test/11.2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/9 类/9.5python标准库/ticket.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/11 test/11.2/test_employee_function.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.learning_python" />
-        <item itemvalue="Python.pi_string" />
-        <item itemvalue="Python.file_reader" />
-        <item itemvalue="Python.ticket" />
-        <item itemvalue="Python.die" />
+        <item itemvalue="Python.reverse" />
+        <item itemvalue="Python.reverseString" />
+        <item itemvalue="Python.4repeat_num" />
+        <item itemvalue="Python tests.Python tests in test_employee_function.py" />
+        <item itemvalue="Python tests.Python tests for test_employee_function.EmplyeeTestCase.test_give_custom_raise" />
       </list>
     </recent_temporary>
   </component>
@@ -207,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649573933845</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="puthon_tarin">
+      <created>1649648399887</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649648399887</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

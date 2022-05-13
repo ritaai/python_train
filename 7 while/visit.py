@@ -11,9 +11,9 @@ while active:
     city = input("\nwhere are you city?")
 
     dir[name] = city
-    res = input("you hai yao xie ma?")
+    res = input("would you write continue?")
     if res == 'no':
         active = False
 
 for name, city in dir.items():
-    print(f"{name} would like {city}.")
+    print(f"{name} would like to {city}.")
